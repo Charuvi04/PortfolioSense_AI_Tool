@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * PortfolioSense — AI-Powered Portfolio Intelligence Platform
  *
@@ -24,7 +25,7 @@
  * This file is the complete React frontend. See README section at the bottom
  * for the companion Express backend (server.js) code.
  */
-// @ts-nocheck
+
 import { useState, useEffect, useCallback } from 'react';
 
 // ─── Constants ────────────────────────────────────────────────────────────────
